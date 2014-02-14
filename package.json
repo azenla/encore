@@ -1,7 +1,11 @@
 {
-   "name": "node-encore",
-   "version": "0.0.1",
-   "scripts": {
-      "test": "./bin/tests.sh"
-   }
+    "name": "node-encore",
+    "version": "0.0.1",
+    "scripts": {
+        "test": "./bin/tests.sh"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/kaendfinger/encore.git"
+    }
 }
